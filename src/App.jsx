@@ -25,11 +25,11 @@ import "./styles.css";
  */
 const siteProps = {
   name: "Maneesha Yasinth Gunarathna",
-  title: "Beginner developer,programmer",
+  title: "Aspiring Developer & Code Enthusiast",
   email: "maneeshayasinthgunarathna.com",
   gitHub: "maneeshaYasinth",
   instagram: "maneesha_yasinth",
-  linkedIn: "Maneesha Gunarathna",
+  linkedIn: "maneesha-yasinth",
   medium: "",
   twitter: "",
   youTube: "",
