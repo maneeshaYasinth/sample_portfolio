@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "http://maneeshaYasinth.github.io/maneeshaYasinthGunarathna",
+  "homepage": "http://maneeshaYasinth.github.io/sample_prtfolio",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'http://maneeshaYasinth.github.io/maneeshaYasinthGunarathna'",
+    "build-gh": "parcel build --public-url 'http://maneeshaYasinth.github.io/sample_prtfolio'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
